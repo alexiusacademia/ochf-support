@@ -1,11 +1,23 @@
-# Reporting
+# Frequently Asked Questions
 
-This section will discuss about the guide on Projects and Contracts reports as well as its functionality.
+## 1. What are the supported solvers?
 
-First in the menu tab left sidebar select **Reports**.
+The supported solvers for uniform and steady flow are:
 
-![reports-in-project-and-contract](/images/view/reports_in_menu.png)
+- Rectangular Channel
+- Trapezoidal Channel
+- Circular Channel
 
-Let us first view the report(s) about contracts, click the **Contracts Report** to proceed.
+## 2. Is there a limit on data entry in the Pro version?
 
-![reports-links](/images/report/reports_links.png)
+No, there is no limit in data entry in the Pro version of the app.
+
+## 3. Can I export the discharge rating curve in the result page?
+
+As of the current version, the discharge rating curve cannot be exported naturally. The workaround for this at the moment is the use of screenshot feature of your phone.
+
+## 4. If I have some questions, where can I contact the developer?
+
+Any questions or queries regarding the app features and functionalities can be emailed to syncsoftsolutions.software@gmail.com or to alexius.academia@gmail.com
+
+Please provide on the subject the title of the app so that we can quickly see it and create solutions for you.

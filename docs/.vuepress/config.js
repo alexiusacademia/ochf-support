@@ -20,15 +20,10 @@ module.exports = {
     sidebar: {
         '/features/': [
             '',
-            'system',
-            'project',
-            'contract',
-            'user'
+            'inputs'
         ],
         '/faq/': [
-          '',
-          'contract',
-          'project'
+          ''
         ]
     },
 

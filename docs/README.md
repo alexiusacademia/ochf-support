@@ -12,7 +12,7 @@ features:
   details: Best algorithm for computations is used to avoid app waiting during calculations.
 - title: Units Option
   details: The app is built considering both metric and english system of measurements to accommodate engineering preferences.
-footer: MIT Licensed | Copyright © 2021 - Syncsoft Solutions
+footer: MIT Licensed | Copyright © 2021 - Syncsoft Solutions | syncsoftsolutions.software@gmail.com
 ---
 
 ---
