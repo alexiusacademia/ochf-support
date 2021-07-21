@@ -15,6 +15,10 @@ module.exports = {
         text: "FAQ",
         link: "/faq/",
       },
+      {
+        text: "Users",
+        link: "/users/"
+      }
     ],
 
     sidebar: {
@@ -23,6 +27,9 @@ module.exports = {
             'inputs'
         ],
         '/faq/': [
+          ''
+        ],
+        '/users/': [
           ''
         ]
     },

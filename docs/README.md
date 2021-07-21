@@ -19,3 +19,7 @@ footer: MIT Licensed | Copyright © 2021 - Syncsoft Solutions | syncsoftsolution
 # What is OCHF?
 
 **OCHF** which stands for *Open Channel Hydraulics Flow* is an iOS app that can help speed things up in calculation of uniform steady open channel flow. 
+
+# Who is the app for?
+
+To find the requirements or intended users of the app, please read [here](/users/).
