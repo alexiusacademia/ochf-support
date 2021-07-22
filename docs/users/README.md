@@ -30,4 +30,6 @@ No, users don't need an account to use the app.
 
 No, there are no paid content or feature of the app. However, the Pro version is a paid app so the user has to pay before downloading the app.
 
+## Who pays for the paid content and how does users access it?
 
+No one. There are no paid content in the app except the app download itself.
