@@ -4,7 +4,7 @@ sidebarDepth: 2
 
 # App Features
 
-This section shows briefly all the features of the Open Channel Hydraulics Flow Pro app including those for next version releases.
+This section shows briefly all the features of the Open Channel Hydraulics Flow app including those for next version releases.
 
 ## Uniform-Steady Flow
 

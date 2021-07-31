@@ -24,7 +24,8 @@ module.exports = {
     sidebar: {
         '/features/': [
             '',
-            'inputs'
+            'inputs',
+            'pro_vs_lite'
         ],
         '/faq/': [
           ''
