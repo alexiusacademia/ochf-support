@@ -1,8 +1,8 @@
 ---
 home: true
 # heroImage: /hero.png
-heroText: OCHF Pro
-tagline: Open Channel Hydraulics Flow Pro
+heroText: OCHF
+tagline: Open Channel Hydraulics Flow
 actionText: Get Started →
 actionLink: /features/
 features:
