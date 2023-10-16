@@ -18,6 +18,10 @@ module.exports = {
       {
         text: "Users",
         link: "/users/"
+      },
+      {
+        text: "Beaver Dam",
+        link: "/weirs/"
       }
     ],
 
@@ -31,6 +35,9 @@ module.exports = {
           ''
         ],
         '/users/': [
+          ''
+        ],
+        '/weirs/': [
           ''
         ]
     },
